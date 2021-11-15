@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hand-Gesture-Recognition.iml" filepath="$PROJECT_DIR$/.idea/Hand-Gesture-Recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Handwash-Monitoring-master/.idea/Handwash-Monitoring-master.iml" filepath="$PROJECT_DIR$/../Handwash-Monitoring-master/.idea/Handwash-Monitoring-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../VertebralSegmentation/.idea/VertebralSegmentation.iml" filepath="$PROJECT_DIR$/../../../../../../VertebralSegmentation/.idea/VertebralSegmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hand_detector_train/.idea/hand_detector_train.iml" filepath="$PROJECT_DIR$/../hand_detector_train/.idea/hand_detector_train.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../har_tf2/.idea/har_tf2.iml" filepath="$PROJECT_DIR$/../../har_tf2/.idea/har_tf2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../openpose_tf2/tf-pose-estimation/.idea/tf-pose-estimation.iml" filepath="$PROJECT_DIR$/../../openpose_tf2/tf-pose-estimation/.idea/tf-pose-estimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../openpose/build/examples/tutorial_api_python/.idea/tutorial_api_python.iml" filepath="$PROJECT_DIR$/../../../../../../openpose/build/examples/tutorial_api_python/.idea/tutorial_api_python.iml" />
+    </modules>
+  </component>
+</project>
